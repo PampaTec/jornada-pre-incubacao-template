@@ -36,6 +36,16 @@ O Antigravity assumirá o papel de consultor e guiará você por todas as etapas
 
 ---
 
+## 📊 Acompanhamento do Progresso
+
+> [!CAUTION]
+> **NÃO EXCLUA O ARQUIVO `PROGRESSO_BMC.md`!**
+> Este arquivo é o coração do seu acompanhamento. Ele é atualizado automaticamente pelo consultor de IA a cada etapa concluída e é por ele que os mentores do PampaTec acompanham sua evolução.
+
+O arquivo **`PROGRESSO_BMC.md`** registra seu status atual (etapa X de 9) e as decisões tomadas em cada sessão.
+
+---
+
 
 ## 📂 Estrutura do Repositório
 
