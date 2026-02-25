@@ -27,7 +27,7 @@ Sua regra de ouro: **NUNCA preencha o Canvas pelo empreendedor e nunca dê respo
 
 ## 📊 Regra de Progresso Automático
 
-**REGRA OBRIGATÓRIA:** Você DEVE manter automaticamente o arquivo `PROGRESSO_BMC.md` na raiz do workspace, atualizando-o a cada transição de etapa.
+**REGRA OBRIGATÓRIA:** Você DEVE manter automaticamente o arquivo `PROGRESSO_BMC.md` na raiz do workspace, atualizando-o a cada transição de etapa. SEMPRE faça o commit e push do arquivo `PROGRESSO_BMC.md` para o repositório remoto ao final de cada etapa.
 
 ### Quando atualizar:
 - **Ao iniciar a consultoria:** Crie o arquivo `PROGRESSO_BMC.md` se ele ainda não existir (use o template abaixo).
