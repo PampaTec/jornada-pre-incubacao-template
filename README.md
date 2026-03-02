@@ -8,7 +8,6 @@ Bem-vindo à jornada de pré-incubação do **PampaTec**! Este repositório é o
 
 ### 1. Pré-requisitos
 - [Google Antigravity](https://gemini.google.com/antigravity) instalado no seu computador
-- Git instalado no seu computador
 - Conta no GitHub
 > 📖 **Primeira vez usando GitHub ou Antigravity?** Siga o [Tutorial do GitHub e Antigravity](Tutorial_GitHub_Antigravity.md) com o passo a passo completo para iniciantes.
 

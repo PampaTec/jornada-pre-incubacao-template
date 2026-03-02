@@ -121,3 +121,9 @@ Por padrão, a interface do Antigravity pode estar em inglês. Para mudar para p
 > [!NOTE]
 > Mesmo que a interface esteja em inglês, você pode conversar com o Antigravity em português sem problemas — ele entende e responde no idioma que você usar. A mudança de idioma afeta apenas os menus e botões da interface.
 
+---
+
+### **7. Instalar o Git e syncronizar Antigravity com o GitHub**
+
+1. No Antigravity digite: Conecte na minha conta do GitHub usando github CLI com autenticação via navegador.
+2. Na sequência o agente de IA vai instalar o Git solicitando sua permissão e conectar com sua conta do GitHub abrindo uma janela do navegador para que você possa autenticar.
