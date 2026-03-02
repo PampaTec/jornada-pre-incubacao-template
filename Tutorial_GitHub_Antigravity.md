@@ -121,31 +121,3 @@ Por padrão, a interface do Antigravity pode estar em inglês. Para mudar para p
 > [!NOTE]
 > Mesmo que a interface esteja em inglês, você pode conversar com o Antigravity em português sem problemas — ele entende e responde no idioma que você usar. A mudança de idioma afeta apenas os menus e botões da interface.
 
----
-
-### **7. Conectar ao GitHub e criar o repositório**
-
-Agora vamos conectar o projeto ao GitHub para versionar o código.
-
-**Digite a seguinte mensagem no Antigravity:**
-
-```
-Faça login na minha conta do GitHub e conecte este projeto ao repositório do meu time.
-```
-
-O Antigravity vai:
-- Solicitar suas credenciais do GitHub (usuário e token de acesso pessoal)
-- Criar um repositório (projeto) novo com o nome da pasta
-- Conectar a pasta local ao repositório online
-
-> [!TIP]
-> **Como criar um Token de Acesso Pessoal (Classic) no GitHub:**
-> 1. Acesse [github.com/settings/tokens](https://github.com/settings/tokens)
-> 2. Clique em **Generate new token (classic)**
-> 3. Dê um nome ao token (ex: "Antigravity")
-> 4. Selecione os escopos: `repo`, `admin:repo_hook`, `gist`
-> 5. Clique em **Generate token**
-> 6. **Copie e salve o token** — ele será mostrado apenas uma vez!
-
-> [!CAUTION]
-> **Nunca compartilhe seu token de acesso com outras pessoas.** Ele funciona como uma senha e dá acesso ao seu GitHub.

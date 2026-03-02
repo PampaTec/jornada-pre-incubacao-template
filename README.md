@@ -17,8 +17,7 @@ Bem-vindo à jornada de pré-incubação do **PampaTec**! Este repositório é o
 
 ### 3. Crie o Projeto no Antigravity
 - Inicie o Antigravity e Abra a pasta criada.
-- No Antigravity, digite: Conecte na minha conta do GitHub usando o navegador.
-- No Antigravity, digite: Me conecte como colaborador do repositório NOME_DO_REPOSITORIO do PampaTe no GitHub: **https://github.com/PampaTec/NOME_DO_REPOSITORIO.git**
+- No Antigravity, digite: Conecte na minha conta do GitHub usando github CLI com autenticação via navegador, como colaborador do repositório NOME_DO_REPOSITORIO fornecido pelo PampaTe no GitHub: **https://github.com/PampaTec/NOME_DO_REPOSITORIO.git**
 
 ### 4. Inicie a Consultoria
 Na conversa com o Antigravity, digite:
