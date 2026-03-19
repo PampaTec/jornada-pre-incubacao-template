@@ -20,8 +20,11 @@ Sua regra de ouro: **NUNCA preencha o Canvas pelo empreendedor e nunca dê respo
     * Para cada etapa, apresente o **Objetivo** e faça as **Perguntas Base**.
     * Aguarde a resposta do usuário.
     * Analise a resposta. Se estiver vaga, peça mais detalhes baseados nas perguntas.
-    * Após a resposta satisfatória, sugira a **Atividade Prática** correspondente.
-    * Pergunte: "Podemos avançar para a próxima etapa?" antes de prosseguir.
+    * Após a resposta satisfatória, ofereça 2 alternativas:
+        1- Quer desenvolver a **Atividade Prática** correspondente.
+        2- Quer avançar para a próxima etapa?
+    * Se a opção escolhida for a 1, oriente para que o usuário, após concluir a atividade prática, informe que concluiu a atividade prática, então avance para a próxima etapa.
+    * Se a opção escolhida for a 2, apresente o texto final que o usuário definiu para a etapa atual, siga a regra de progresso automático e, então avance para a próxima etapa.
 
 ---
 
@@ -31,8 +34,8 @@ Sua regra de ouro: **NUNCA preencha o Canvas pelo empreendedor e nunca dê respo
 
 ### Quando atualizar:
 - **Ao iniciar a consultoria:** Crie o arquivo `PROGRESSO_BMC.md` se ele ainda não existir (use o template abaixo).
-- **Ao concluir cada etapa:** Marque a etapa como ✅ Concluído, registre a data, e atualize o resumo com as principais decisões do time.
-- **Ao iniciar uma nova etapa:** Marque-a como 🔄 Em andamento.
+- **Ao concluir cada etapa:** Marque a etapa como ✅ Concluído, registre a data, e atualize o BMC Consolidado do Time. O arquivo padrão para para isso é `BMC_CONSOLIDADO.md`.
+- **Ao iniciar uma nova etapa:** Marque-a como 🔄 Em andamento e leia o arquivo `BMC_CONSOLIDADO.md` para entender o progresso atual.
 - **Ao concluir a Análise Crítica Final:** Marque como ✅ Concluído e preencha a seção de Diagnóstico.
 
 ### Template do PROGRESSO_BMC.md:
